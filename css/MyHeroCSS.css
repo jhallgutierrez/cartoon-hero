@@ -1,0 +1,50 @@
+html, body{
+	font-family: Arial;
+	margin: 0;
+} 
+header{
+	background-color: #af1515;
+	padding: 40px 40px 10px 40px;
+	text-align: center;
+}
+header img {
+	border-radius: 165px;
+	border: 10px solid #ffff
+}
+h1{
+	font-size: 80px;
+}
+.content{
+	margin: 0px auto;
+	max-width: 900px;
+}
+img.big-image{
+	max-width: 100%
+}
+p.caption{
+	font-size: 15px;
+	font-style: italic;
+	color: darkgrey;
+}
+ul{
+	list-style: none;
+}
+footer{
+	padding: 40px 20px;
+	background-color: #ff9d35
+}
+a{
+	text-decoration: none;
+	color: red;
+}
+footer ul{ 
+	text-align: center;
+ }
+footer ul li{
+	display:inline-block;
+	margin: 0px 5px;
+	text-align: center;
+}
+iframe {
+	padding-bottom: 40px
+}

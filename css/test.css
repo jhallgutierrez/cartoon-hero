@@ -1,0 +1,14 @@
+.small{
+	text-decoration: line-through;
+	font-size: 12px;
+}
+h1{ 
+	color: purple;
+	font-size: 70px;
+}
+h2{
+	text-decoration: underline
+}
+body{
+	background-color: lightgrey
+}
